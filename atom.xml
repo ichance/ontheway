@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[技术前行的路上]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.shizuwu.cn/"/>
+  <updated>2015-10-20T11:54:18.000Z</updated>
+  <id>http://www.shizuwu.cn/</id>
+  
+  <author>
+    <name><![CDATA[http://www.shizuwu.cn]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[写在前面]]></title>
+    <link href="http://www.shizuwu.cn/2015/10/17/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
+    <id>http://www.shizuwu.cn/2015/10/17/写在前面/</id>
+    <published>2015-10-17T13:18:19.000Z</published>
+    <updated>2015-10-20T11:54:18.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="关于技术交流">关于技术交流</h2><p><strong>前端</strong></p>
+<ol>
+<li><p>基础<br>  JS/CSS/HTML/PS/Firebug/Chrome Tools/</p>
+</li>
+<li><p>提高效率的途径</p>
+<ul>
+<li><p>3.1 工具使用<br>IDE工具选择：<br>首推sublime text，其次配合php推荐使用的phpstorm</p>
+<p>辅助插件：<br>emmet、js/css format、tinypng cli、uncss</p>
+</li>
+<li><p>3.2 code snippets<br>搜集和收藏常用的css、js代码段，不需反复书写同样的功能<br>如：js模板替换、ajax请求封装、js数据格式化、css3动画和按钮</p>
+</li>
+<li><p>3.3 善于搜索<br>技术问题首选google搜索（shadowsocks、vpn）<br>前端技术问题可以查API文档和去经常更新的前端技术博客</p>
+</li>
+<li><p>3.4 切图工具<br>同类型图片可以批量导出图片（PS脚本）<br>重复操作可以使用批量动作（PS动作）</p>
+</li>
+<li><p>3.5 文档书写总结<br>markdown、hexo、云笔记</p>
+</li>
+<li><p>3.6 使用新技术<br>Node/Npm/Gulp/Bower/Yo/Less/Sass/AngularJS/React/Docker/SVG</p>
+<p><strong>tips:新技术的使用，可以后期再找时间交流</strong></p>
+</li>
+<li><p>3.7 掌握非前端类工具</p>
+<ul>
+<li>git</li>
+<li>vim</li>
+<li>shell</li>
+<li>fiddler / wireshark</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>提高项目质量的手段</p>
+<ul>
+<li><p>4.1 代码书写规范</p>
+<ul>
+<li><a href="http://zhibimo.com/read/Ashu/front-end-style-guide/" target="_blank" rel="external">前端代码规范</a></li>
+<li><a href="http://html5ify.com/fks/" target="_blank" rel="external">前端工程师技能树</a></li>
+<li><a href="http://www.jstherightway.org/" target="_blank" rel="external">JS the right way</a></li>
+</ul>
+</li>
+<li><p>4.2 校验工具</p>
+<ul>
+<li>Sublimelinter</li>
+<li>jshint</li>
+<li>csslint</li>
+</ul>
+</li>
+<li><p>4.3 编程思想</p>
+<ul>
+<li>面向对象</li>
+<li>设计模式</li>
+<li>数据结构</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<ol>
+<li><p>相关资料</p>
+<ul>
+<li><p>前端技能树<br><img src="/img/前端技术学习路线.png" alt="前端技术相关" title="前端技术学习路线"></p>
+</li>
+<li><p>API</p>
+<ul>
+<li><p><a href="http://tool.oschina.net/apidocs/" target="_blank" rel="external">API doc</a></p>
+</li>
+<li><p><a href="http://apistore.baidu.com/" target="_blank" rel="external">API Store</a></p>
+</li>
+</ul>
+</li>
+<li><p>snippets</p>
+<ul>
+<li><a href="http://7xixta.com2.z0.glb.qiniucdn.com/js/jquery.js?v=2" target="_blank" rel="external">JS snippets</a></li>
+<li><a href="">CSS snippets</a></li>
+</ul>
+</li>
+<li><p>技术网站</p>
+<ul>
+<li><a href="http://github.com/" target="_blank" rel="external">github</a></li>
+<li><a href="http://segmentfault.com/" target="_blank" rel="external">segmentfault</a></li>
+<li><a href="http://codepen.io/" target="_blank" rel="external">codepen</a></li>
+<li><a href="http://jsfiddle.net/" target="_blank" rel="external">jsfiddle</a></li>
+<li><a href="http://www.w3cfuns.com/" target="_blank" rel="external">w3cfuns</a></li>
+<li><a href="http://stackoverflow.com" target="_blank" rel="external">stackoverflow</a></li>
+<li>其它<ul>
+<li><a href="http://coding.net" target="_blank" rel="external">coding</a></li>
+<li><a href="http://git.oschina.net/" target="_blank" rel="external">oschina</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>工具对应</p>
+<ul>
+<li><a href="http://www.sublimetext.com/3" target="_blank" rel="external">sublime text 3</a><ul>
+<li><a href="http://blog.csdn.net/sudoers/article/details/45166873" target="_blank" rel="external">破解</a></li>
+<li><a href="http://www.cnblogs.com/Rising/p/3741116.html" target="_blank" rel="external">扩展插件安装</a></li>
+</ul>
+</li>
+<li><a href="http://nodejs.org" target="_blank" rel="external">Nodejs</a><ul>
+<li><a href="http://npmjs.com" target="_blank" rel="external">NPM</a></li>
+<li><a href="https://github.com/websperts/tinypng-cli" target="_blank" rel="external">Tinypng</a></li>
+<li><a href="https://github.com/giakki/uncss" target="_blank" rel="external">uncss</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>工具集合</p>
+<ul>
+<li><a href="http://www.w3cfuns.com/tools.php" target="_blank" rel="external">w3cfuns 神器集</a></li>
+<li><a href="http://tool.lu/" target="_blank" rel="external">iTools</a></li>
+</ul>
+</li>
+<li><p>非技术类辅助工具</p>
+<ul>
+<li><a href="">Adblock</a></li>
+<li><a href="">二维码</a></li>
+<li><a href="">RSS订阅</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="关于技术交流">关于技术交流</h2><p><strong>前端</strong></p>
+<ol>
+<li><p>基础<br>  JS/CSS/HTML/PS/Firebug/Chrome Tools/</p>
+</li>
+<li><p>提高效率的途径</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
